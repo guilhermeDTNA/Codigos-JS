@@ -1,0 +1,1 @@
+let quantidade = arrayTagsProdutos.filter(x => x === item.tag).length;
